@@ -10,6 +10,16 @@
 
 <body>
 <main>
+  <nav class="navbar navbar-expand-sm bg-light">
+    <div class="container-fluid">
+      Esimerkki
+      <ul class=navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href ="#">First</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
  <div class="container p-5 my-5 bg-warning text-body">
   <h1> Guide for Eastern Europe Football</h1>
   <p> What is here?</p>
