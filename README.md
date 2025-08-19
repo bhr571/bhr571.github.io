@@ -10,7 +10,7 @@
 
 <body>
 <main>
- <div class="container p-5 my-5 bg-warning text-black">
+ <div class="container p-5 my-5 bg-warning text-body">
   <h1> Guide for Eastern Europe Football</h1>
   <p> What is here?</p>
   <p>What is here?
